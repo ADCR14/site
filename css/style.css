@@ -1,19 +1,23 @@
-html{"dancing script"}
-font-family:sans-serif,
+html{
+  font-family: "dancing script", sans-serif;
+}
 
 #primeira{
-  height: 200px;
-   width: 200px;
-   background-color: green;s
+    height: 200px;
+    width: 200px;
+    background-color: #87CEEB;
+    display: inline-block;
 }
 
 #segunda{
-    height: 200px;
-     width: 200px;
-     background-color: green;
+      height: 200px;
+      width: 200px;
+      background-color: #3CB371;
+      display: inline-block;
 }
+
 #terceira{
     height: 200px;
-     width: 200px;
-     background-color: red;
+    width: 200px;
+    background-color: #DAA520;
 }
