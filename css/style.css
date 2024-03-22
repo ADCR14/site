@@ -6,13 +6,41 @@ html{
     height: 200px;
     width: 200px;
     background-color: #87CEEB;
+
     display: inline-block;
+
+    justify-content: center;
+    align-items: center;
+
+    text-align: center ;
+
+
+
 }
+
+
+.texto{
+
+    display: flex;
+
+    justify-content: center;
+    align-items: center;
+
+    text-align: center ;
+
+}
+
+#div_interna {
+  background-color: purple;
+}
+
+
 
 #segunda{
       height: 200px;
       width: 200px;
       background-color: #3CB371;
+      text-align: center;
       display: inline-block;
 }
 
@@ -20,4 +48,27 @@ html{
     height: 200px;
     width: 200px;
     background-color: #DAA520;
+    text-align: center;
+}
+
+#quarta{
+  height: 200px;
+  width:  300px;
+  background-color: white;
+}
+
+#quinta{
+  height: 200px;
+  width: 200px;
+  background-color: black;
+  text-align: center;
+  display: inline-block;
+}
+
+#sexta{
+  height: 200px;
+  width:  200px;
+  background-color: red;
+  text-align: center;
+  display: inline-block;
 }
